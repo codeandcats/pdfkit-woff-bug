@@ -14,8 +14,6 @@ npm start
 
 Produces the following error:
 ```
-bash-3.2$ node index                                                                                                                                                      
-                                                                                                                                                                          
 TypeError: Cannot read property 'length' of undefined                                                                                                                     
     at WOFF2Glyph._getContours (/node_modules/pdfkit/node_modules/fontkit/index.js:9464:33)                  
     at WOFF2Glyph._getPath (/node_modules/pdfkit/node_modules/fontkit/index.js:9499:27)                      
