@@ -1,6 +1,6 @@
 # pdfkit-woff-bug
 
-Simple node app that demonstrates error in PDFKit/FontKit when trying to embed a woff2 font. 
+Simple node app that demonstrates error in [PDFKit](https://github.com/devongovett/pdfkit)/[FontKit](https://github.com/devongovett/fontkit) when trying to embed a woff2 font. 
 
 ## Install
 ```
