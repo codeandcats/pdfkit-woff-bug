@@ -1,0 +1,28 @@
+{
+  "name": "pdfkit-woff-bug",
+  "version": "1.0.0",
+  "description": "Demonstration of a bug in PDFKit/Fontkit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdfkit",
+    "fontkit"
+  ],
+  "author": "Ben <codeandcats@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pdfkit": "^0.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeandcats/pdfkit-woff-bug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codeandcats/pdfkit-woff-bug/issues"
+  },
+  "homepage": "https://github.com/codeandcats/pdfkit-woff-bug#readme"
+}
